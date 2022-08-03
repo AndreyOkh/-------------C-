@@ -1,0 +1,15 @@
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/Урок 1/bin/Debug/net6.0/Урок 1
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/Урок 1/bin/Debug/net6.0/Урок 1.deps.json
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/Урок 1/bin/Debug/net6.0/Урок 1.runtimeconfig.json
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/Урок 1/bin/Debug/net6.0/Урок 1.dll
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/Урок 1/bin/Debug/net6.0/Урок 1.pdb
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/Урок 1/obj/Debug/net6.0/Урок 1.csproj.AssemblyReference.cache
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/Урок 1/obj/Debug/net6.0/Урок 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/Урок 1/obj/Debug/net6.0/Урок 1.AssemblyInfoInputs.cache
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/Урок 1/obj/Debug/net6.0/Урок 1.AssemblyInfo.cs
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/Урок 1/obj/Debug/net6.0/Урок 1.csproj.CoreCompileInputs.cache
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/Урок 1/obj/Debug/net6.0/Урок 1.dll
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/Урок 1/obj/Debug/net6.0/refint/Урок 1.dll
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/Урок 1/obj/Debug/net6.0/Урок 1.pdb
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/Урок 1/obj/Debug/net6.0/Урок 1.genruntimeconfig.cache
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/Урок 1/obj/Debug/net6.0/ref/Урок 1.dll
