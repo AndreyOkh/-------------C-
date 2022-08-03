@@ -1,0 +1,15 @@
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/example-3/bin/Debug/net6.0/example-3
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/example-3/bin/Debug/net6.0/example-3.deps.json
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/example-3/bin/Debug/net6.0/example-3.runtimeconfig.json
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/example-3/bin/Debug/net6.0/example-3.dll
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/example-3/bin/Debug/net6.0/example-3.pdb
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/example-3/obj/Debug/net6.0/example-3.csproj.AssemblyReference.cache
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/example-3/obj/Debug/net6.0/example-3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/example-3/obj/Debug/net6.0/example-3.AssemblyInfoInputs.cache
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/example-3/obj/Debug/net6.0/example-3.AssemblyInfo.cs
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/example-3/obj/Debug/net6.0/example-3.csproj.CoreCompileInputs.cache
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/example-3/obj/Debug/net6.0/example-3.dll
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/example-3/obj/Debug/net6.0/refint/example-3.dll
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/example-3/obj/Debug/net6.0/example-3.pdb
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/example-3/obj/Debug/net6.0/example-3.genruntimeconfig.cache
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/example-3/obj/Debug/net6.0/ref/example-3.dll
