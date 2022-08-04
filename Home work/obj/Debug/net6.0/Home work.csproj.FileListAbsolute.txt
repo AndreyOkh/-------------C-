@@ -1,0 +1,15 @@
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/Home work/obj/Debug/net6.0/Home work.csproj.AssemblyReference.cache
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/Home work/obj/Debug/net6.0/Home work.GeneratedMSBuildEditorConfig.editorconfig
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/Home work/obj/Debug/net6.0/Home work.AssemblyInfoInputs.cache
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/Home work/obj/Debug/net6.0/Home work.AssemblyInfo.cs
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/Home work/obj/Debug/net6.0/Home work.csproj.CoreCompileInputs.cache
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/Home work/bin/Debug/net6.0/Home work
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/Home work/bin/Debug/net6.0/Home work.deps.json
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/Home work/bin/Debug/net6.0/Home work.runtimeconfig.json
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/Home work/bin/Debug/net6.0/Home work.dll
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/Home work/bin/Debug/net6.0/Home work.pdb
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/Home work/obj/Debug/net6.0/Home work.dll
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/Home work/obj/Debug/net6.0/refint/Home work.dll
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/Home work/obj/Debug/net6.0/Home work.pdb
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/Home work/obj/Debug/net6.0/Home work.genruntimeconfig.cache
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/Home work/obj/Debug/net6.0/ref/Home work.dll
