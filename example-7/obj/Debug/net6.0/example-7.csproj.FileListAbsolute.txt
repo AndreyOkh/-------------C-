@@ -1,0 +1,15 @@
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/example-7/obj/Debug/net6.0/example-7.csproj.AssemblyReference.cache
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/example-7/obj/Debug/net6.0/example-7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/example-7/obj/Debug/net6.0/example-7.AssemblyInfoInputs.cache
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/example-7/obj/Debug/net6.0/example-7.AssemblyInfo.cs
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/example-7/obj/Debug/net6.0/example-7.csproj.CoreCompileInputs.cache
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/example-7/bin/Debug/net6.0/example-7
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/example-7/bin/Debug/net6.0/example-7.deps.json
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/example-7/bin/Debug/net6.0/example-7.runtimeconfig.json
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/example-7/bin/Debug/net6.0/example-7.dll
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/example-7/bin/Debug/net6.0/example-7.pdb
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/example-7/obj/Debug/net6.0/example-7.dll
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/example-7/obj/Debug/net6.0/refint/example-7.dll
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/example-7/obj/Debug/net6.0/example-7.pdb
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/example-7/obj/Debug/net6.0/example-7.genruntimeconfig.cache
+/Users/okhotnikov/Documents/Обучение/Знакомство с C#/example-7/obj/Debug/net6.0/ref/example-7.dll
